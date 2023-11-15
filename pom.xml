@@ -235,7 +235,7 @@
             </container>
             <daemon>
               <properties>
-                <cargo.daemon.url>http://54.234.36.176:9000/</cargo.daemon.url>
+                <cargo.daemon.url>http://localhost:18000</cargo.daemon.url>
                 <cargo.daemon.handleid>${project.artifactId}</cargo.daemon.handleid>
               </properties>
             </daemon>
